@@ -105,7 +105,7 @@ Complexity:
 
 O(V+E)
 
-# **5.3 A* Search (Bonus)**
+# **5.3 A* Search **
 
 Use geographic coordinates as heuristic:
 
@@ -116,13 +116,6 @@ Compare:
 - Dijkstra vs A*
 - Runtime
 - Nodes explored
-
-# **5.4 Minimum Spanning Tree (Optional Bonus)**
-
-Use Prim’s or Kruskal’s algorithm for:
-
-- Airline network optimization
-- Cheapest way to connect all airports
 
 # **6. System Features**
 
@@ -230,31 +223,10 @@ Show design tradeoffs.
 - Algorithm analysis and optimization
 - System design and API integration
 
-# **Suggested Milestones**
 
-**Phase 1**
+# **Tech Stack **
 
-Graph modeling + dataset setup
-
-**Phase 2**
-
-Implement BFS + Dijkstra
-
-**Phase 3**
-
-Add A* and optimization features
-
-**Phase 4**
-
-Testing and performance comparison
-
-**Phase 5**
-
-UI and final report
-
-# **Tech Stack (Example)**
-
-- Java / Python
+- Java 
 - Graph libraries (optional)
 - OpenFlights API/data
 - JavaFX / React (for UI)
